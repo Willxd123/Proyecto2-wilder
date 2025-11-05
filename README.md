@@ -71,7 +71,7 @@ Este curso enseña a integrar **Large Language Models (LLMs)** en aplicaciones r
 
 1. **Lee el Syllabus:**
    ```bash
-   cat syllabus/SYLLABUS.md
+   cat SYLLABUS.md
    ```
 
 2. **Sigue las clases en orden:**
@@ -122,7 +122,6 @@ Este curso enseña a integrar **Large Language Models (LLMs)** en aplicaciones r
 
 - JavaScript/TypeScript básico
 - Python básico
-- React fundamentals
 - Conceptos de API REST
 - Git básico
 
@@ -170,11 +169,9 @@ ollama --version  # opcional
 
 | Criterio | Peso |
 |----------|------|
-| Integración LLM + Funciones | 35% |
-| Calidad UI/UX | 20% |
-| RAG y Datos | 15% |
-| Pruebas y Evals | 15% |
-| Presentación y Docs | 15% |
+| Presentación 1 | 20% |
+| Presentación 2 | 20% |
+| Trabajos en clase y tareas | 60% |
 
 ### Entregables Finales
 
@@ -277,8 +274,6 @@ Este material educativo está bajo licencia MIT. Siéntete libre de:
 
 ## 📞 Contacto
 
-- Canal oficial del curso: [Slack/Discord - Por definir]
-- Correo de soporte académico: [Por definir]
 - Universidad: UAGRM - FICCT
 
 ---
